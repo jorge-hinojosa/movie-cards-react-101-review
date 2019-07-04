@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import data from "../movieData";
-import MovieCard from "../MovieCard";
+import MovieCard from "./MovieCard";
 
 export default class MovieList extends Component {
   constructor() {
